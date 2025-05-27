@@ -1,0 +1,5 @@
+train: /home/luiz/Documentos/FinalTCC/scripts/images/train
+val: /home/luiz/Documentos/FinalTCC/scripts/images/val
+
+nc: 1
+names: ["jogador"]
